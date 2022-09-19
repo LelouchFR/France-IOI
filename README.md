@@ -13,5 +13,4 @@
 <h3 align="center">Follow me on github for more infos and help if your'e stuck</h3>
 <div align="center">
   <a href="https://github.com/LelouchFR" align="center">Follow @LelouchFR</a><br>
-  <a href="https://github.com/LelouchFR/France-IOI/fork" align="center">Fork</a>
 </div>
