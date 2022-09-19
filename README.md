@@ -12,5 +12,6 @@
 
 <h3 align="center">Follow me on github for more infos and help if your'e stuck</h3>
 <div align="center">
-  <a href="https://github.com/LelouchFR" align="center">Follow @LelouchFR</a><br>
+  <a href="https://github.com/LelouchFR" align="center">Follow @LelouchFR</a><br><br><br>
+  <h5 align="center">instagram: <a href="https://www.instagram.com/gumball0670.css">gumball0670.css</a> / <a href="https://www.instagram.com/gumball0670.js">gumball0670.js</a></h5>
 </div>
