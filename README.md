@@ -10,7 +10,9 @@
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%201/5%20%E2%80%93%20Tests%20et%20conditions">5 – Tests et conditions</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%201/6%20%E2%80%93%20Structures%20avanc%C3%A9es">6 – Structures avancées</a></li>
 </ul>
-
+<br>
+<p>Je travaille sur les réponse, si il n'y a pas la réponse que vous cherchez, je suis désolé mais je ne code pas a la vitesse de la lumière :-/</p>
+<br><br>
 <h3 align="center">Follow moi sur Gihub pour plus d'infos et d'aide si tu es coincé</h3>
 <div align="center">
   <a href="https://github.com/LelouchFR" align="center">Follow @LelouchFR</a><br><br><br>
