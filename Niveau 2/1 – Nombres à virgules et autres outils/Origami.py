@@ -1,4 +1,4 @@
-epaisseur = 0.11
+epaisseur = .11
 
 for loop in range(15):
    epaisseur *= 2
