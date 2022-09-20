@@ -8,6 +8,7 @@
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%201/3%20%E2%80%93%20Calculs%20et%20d%C3%A9couverte%20des%20variables">3 – Calculs et découverte des variables</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%201/4%20%E2%80%93%20Lecture%20de%20l'entr%C3%A9e">4 – Lecture de l'entrée</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%201/5%20%E2%80%93%20Tests%20et%20conditions">5 – Tests et conditions</a></li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%201/6%20%E2%80%93%20Structures%20avanc%C3%A9es">6 – Structures avancées</a></li>
 </ul>
 
 <h3 align="center">Follow me on github for more infos and help if your'e stuck</h3>
