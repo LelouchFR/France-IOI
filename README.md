@@ -1,4 +1,4 @@
-<h1 align="center">🪐Bonjour Et Bienvenue à la foire au réponse de france-ioi🪐</h1>
+<h1 align="center">🪐Bonjour Et Bienvenue à la foire au réponse de France-IOI🪐</h1>
 <h2 align="center">Cela est a utilisé seulement si vous êtes vraiment bloquer :P</h2>
 
 ## Niveau 1
