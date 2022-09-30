@@ -17,6 +17,7 @@
 ## Niveau 2
 <ul>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%202/1%20%E2%80%93%20Nombres%20%C3%A0%20virgules%20et%20autres%20outils">1 – Nombres à virgules et autres outils</a></li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%202/2%20%E2%80%93%20D%C3%A9couverte%20des%20tableaux">2 – Découverte des tableaux</a></li>
 </ul>
 
 
