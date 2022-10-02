@@ -23,6 +23,14 @@
 </ul>
 
 
+## Niveau 3
+<ul>
+  <li>1 – Syntaxes, notions et astuces des langages</li>
+  <li>2 – Introduction à la complexité</li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%203/3%20%E2%80%93%20Gestion%20de%20caract%C3%A8res">3 – Gestion de caractères</a></li>
+</ul>
+
+
 <br>
 <p>Je travaille sur les réponse, si il n'y a pas la réponse que vous cherchez, je suis désolé mais je ne code pas a la vitesse de la lumière :-/</p>
 <br><br>
