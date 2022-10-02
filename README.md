@@ -33,7 +33,7 @@
 
 ## Mathématiques
 <ul>
-  <li>1 – Nombres à virgule</li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Math%C3%A9matique/1%20%E2%80%93%20Nombres%20%C3%A0%20virgule">1 – Nombres à virgule</a></li>
   <li>2 – Quelques outils mathématiques</li>
   <li>3 – Arithmétique</li>
   <li>4 – Suites numériques</li>
