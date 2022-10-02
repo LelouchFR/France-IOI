@@ -31,6 +31,16 @@
 </ul>
 
 
+## Mathématiques
+<ul>
+  <li>1 – Nombres à virgule</li>
+  <li>2 – Quelques outils mathématiques</li>
+  <li>3 – Arithmétique</li>
+  <li>4 – Suites numériques</li>
+  <li>5 – Algorithmique du baccalauréat</li>
+</ul>
+
+
 <br>
 <p>Je travaille sur les réponse, si il n'y a pas la réponse que vous cherchez, je suis désolé mais je ne code pas a la vitesse de la lumière :-/</p>
 <br><br>
