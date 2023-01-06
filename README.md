@@ -25,6 +25,7 @@
 
 ## Niveau 3
 <ul>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%203/D%C3%A9blocage%20du%20niveau%203">Déblocage du niveau 3</a></li>
   <li>1 – Syntaxes, notions et astuces des langages</li>
   <li>2 – Introduction à la complexité</li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%203/3%20%E2%80%93%20Gestion%20de%20caract%C3%A8res">3 – Gestion de caractères</a></li>
