@@ -39,7 +39,7 @@
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Math%C3%A9matique/1%20%E2%80%93%20Nombres%20%C3%A0%20virgule">1 – Nombres à virgule</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Math%C3%A9matique/2%20%E2%80%93%20Quelques%20outils%20math%C3%A9matiques">2 – Quelques outils mathématiques</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Math%C3%A9matique/3%20%E2%80%93%20Arithm%C3%A9tique">3 – Arithmétique</a></li>
-  <li>4 – Suites numériques</li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Math%C3%A9matique/4%20%E2%80%93%20Suites%20num%C3%A9riques">4 – Suites numériques</a></li>
   <li>5 – Algorithmique du baccalauréat</li>
 </ul>
 
