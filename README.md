@@ -31,6 +31,7 @@
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%203/3%20%E2%80%93%20Gestion%20de%20caract%C3%A8res">3 – Gestion de caractères</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%203/4%20%E2%80%93%20Op%C3%A9rations%20avanc%C3%A9es%20sur%20les%20cha%C3%AEnes%20de%20caract%C3%A8res">4 – Opérations avancées sur les chaînes de caractères</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%203/5%20%E2%80%93%20Tableaux%20avanc%C3%A9s">5 – Tableaux avancés</a></li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Niveau%203/6%20%E2%80%93%20Tris%20simples">6 – Tris simples</a></li>
 </ul>
 
 
