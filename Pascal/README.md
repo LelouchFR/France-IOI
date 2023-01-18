@@ -4,7 +4,11 @@
 
 
 ## Niveau 1
-
+<ul>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Pascal/Niveau%201/1%20%E2%80%93%20Affichage%20de%20texte%2C%20suite%20d'instructions">1 – Affichage de texte, suite d'instructions</a></li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Pascal/Niveau%201/2%20%E2%80%93%20R%C3%A9p%C3%A9titions%20d'instructions">2 – Répétitions d'instructions</a></li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Pascal/Niveau%201/3%20%E2%80%93%20Calculs%20et%20d%C3%A9couverte%20des%20variables">3 – Calculs et découverte des variables</a></li>
+</ul>
 
 
 <br>
