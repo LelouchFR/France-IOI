@@ -3,9 +3,9 @@
 
 
 
-<h1 align="center">Python</h1>
-<h1 align="center">C++</h1>
-<h1 align="center">Pascal</h1>
+<h1 align="center"><a href="https://github.com/LelouchFR/France-IOI/tree/main/Python">Python</a></h1>
+<h1 align="center"><a href="https://github.com/LelouchFR/France-IOI/tree/main/C%2B%2B">C++</a></h1>
+<h1 align="center"><a href="https://github.com/LelouchFR/France-IOI/tree/main/Pascal">Pascal</a></h1>
 
 
 <p>Je travaille sur les réponse, si il n'y a pas la réponse que vous cherchez, je suis désolé mais je ne code pas a la vitesse de la lumière :-/</p>
