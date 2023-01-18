@@ -1,13 +1,13 @@
 <h1 align="center">🪐Bonjour Et Bienvenue à la foire au réponse de France-IOI🪐</h1>
 <h2 align="center">Cela est a utiliser seulement si vous êtes vraiment bloquer :P</h2>
-
-
-
-<h1 align="center">Python</h1>
 <h1 align="center">C++</h1>
-<h1 align="center">Pascal</h1>
 
 
+## Niveau 1
+
+
+
+<br>
 <p>Je travaille sur les réponse, si il n'y a pas la réponse que vous cherchez, je suis désolé mais je ne code pas a la vitesse de la lumière :-/</p>
 <br><br>
 <h3 align="center">Follow moi sur Github pour plus d'infos et d'aide si tu es coincé</h3>
