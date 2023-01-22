@@ -11,6 +11,7 @@
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Pascal/Niveau%201/4%20%E2%80%93%20Lecture%20de%20l'entr%C3%A9e">4 – Lecture de l'entrée</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Pascal/Niveau%201/5%20%E2%80%93%20Tests%20et%20conditions">5 – Tests et conditions</a></li>
   <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Pascal/Niveau%201/6%20%E2%80%93%20Structures%20avanc%C3%A9es">6 – Structures avancées</a></li>
+  <li><a href="https://github.com/LelouchFR/France-IOI/tree/main/Pascal/Niveau%201/7%20%E2%80%93%20Conditions%20avanc%C3%A9es%2C%20op%C3%A9rateurs%20bool%C3%A9ens">7 – Conditions avancées, opérateurs booléens</a></li>
 </ul>
 
 
